@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-talks",
+  "versions": [
+    {
+      "commit": "6eae44166ea4d8411230567a4740deaaf43da984",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:04:33.861396+00:00"
+    }
+  ]
+}
